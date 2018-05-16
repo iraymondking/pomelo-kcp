@@ -1,5 +1,5 @@
-pomelo-kcp
-======================================
+pomelo-kcp-x
+============
 
 [![Build Status][1]][2]
 
@@ -8,6 +8,14 @@ pomelo-kcp
 
 
 [KCP Protocol](https://github.com/skywind3000/kcp) for [Pomelo](https://github.com/NetEase/pomelo)
+
+修改了 leenjewel/pomelo-kcp
+
+原本是所有连接共用一个 conv
+
+改为根据客户端发来的消息的 conv 创建对应的 kcpsocket 对象
+
+方便跟 tcp 连接相互配合着使用，参见 [skywind3000 的 wiki](https://github.com/skywind3000/kcp/wiki/Cooperate-With-Tcp-Server)
 
 ## HowTo
 

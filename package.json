@@ -1,18 +1,16 @@
 {
-  "name": "pomelo-kcp",
-  "version": "0.0.4",
+  "name": "pomelo-kcp-x",
+  "version": "0.1.0",
   "description": "KCP protocol for pomelo",
   "main": "index.js",
   "dependencies": {
-    "node-kcp": "^1.0.8"
+    "node-kcp": "^1.0.9"
   },
-  "devDependencies": {
-  },
-  "scripts": {
-  },
+  "devDependencies": {},
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/leenjewel/pomelo-kcp.git"
+    "url": "git+ssh://git@github.com/bruce48x/pomelo-kcp.git"
   },
   "keywords": [
     "pomelo",
@@ -24,7 +22,7 @@
   "author": "leenjewel",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/leenjewel/pomelo-kcp/issues"
+    "url": "https://github.com/bruce48x/pomelo-kcp/issues"
   },
-  "homepage": "https://github.com/leenjewel/pomelo-kcp#readme"
+  "homepage": "https://github.com/bruce48x/pomelo-kcp#readme"
 }
