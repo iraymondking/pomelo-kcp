@@ -18,7 +18,7 @@ var util = require('util');
 var net = require('net');
 var EventEmitter = require('events').EventEmitter;
 var dgram = require('dgram');
-var kcp = require('./../node_modules/node-kcp');
+var kcp = require('./../node_modules/node-kcp-x');
 var pomelocoder = require('./../lib/connectors/pomelocoder');
 
 var PomeloClient = function(host, port, opts){
