@@ -1,6 +1,6 @@
 {
   "name": "pomelo-kcp-x",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "KCP protocol for pomelo",
   "main": "index.js",
   "dependencies": {
