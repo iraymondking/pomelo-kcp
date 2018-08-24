@@ -22,7 +22,14 @@ fork 说明
 
 发布在 npm 上的名字是 [pomelo-kcp-x](https://www.npmjs.com/package/pomelo-kcp-x)
 
-欢迎使用
+迁移说明
+====
+
+增加了一个 ts 版本 [pinus-kcp](https://github.com/bruce48x/pinus-kcp#readme)
+
+配合 pinus 使用 ( typescript 版本的 pomelo )
+
+typescript 在开发上完爆 js，强烈建议迁移到 typescript，难度不大。
 
 ## HowTo
 
