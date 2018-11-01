@@ -12,7 +12,7 @@ pomelo-kcp-x
 fork 说明
 ============
 
-修改了 leenjewel/pomelo-kcp
+修改了 [pomelo-kcp](https://www.npmjs.com/package/pomelo-kcp)
 
 原本是所有连接共用一个 conv
 
