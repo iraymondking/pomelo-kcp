@@ -18,7 +18,7 @@ fork 说明
 
 改为根据客户端发来的消息的 conv 创建对应的 kcpsocket 对象
 
-方便跟 tcp 连接相互配合着使用，参见 [skywind3000 的 wiki](https://github.com/skywind3000/kcp/wiki/Cooperate-With-Tcp-Server)
+方便跟 tcp 连接相互配合着使用，参见 [kcp 的 wiki](https://github.com/skywind3000/kcp/wiki/Cooperate-With-Tcp-Server)
 
 发布在 npm 上的名字是 [pomelo-kcp-x](https://www.npmjs.com/package/pomelo-kcp-x)
 
@@ -29,4 +29,4 @@ fork 说明
 
 配合 pinus 使用 ( typescript 版本的 pomelo )
 
-typescript 在开发上完爆 js，强烈建议迁移到 typescript，难度不大。
+typescript 在开发上完爆 js，强烈建议迁移到 typescript，难度不大。
