@@ -4,7 +4,7 @@
   "description": "KCP protocol for pomelo",
   "main": "index.js",
   "dependencies": {
-    "node-kcp-x": "^0.1.2",
+    "node-kcp-x": "^1.0.0",
     "pomelo": "~2.2.5",
     "pomelo-protocol": "~0.1.6",
     "pomelo-protobuf": "~0.4.0"
